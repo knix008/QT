@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Home/Projects/QT/DesktopTest01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DesktopTest01_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Home/Projects/QT/DesktopTest01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Home/Projects/QT/DesktopTest01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Home/Projects/QT/DesktopTest01",
+	"CMAKE_SOURCE_DIR" : "C:/Home/Projects/QT/DesktopTest01",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Home/Projects/QT/DesktopTest01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/DesktopTest01_autogen/include",
+	"INPUTS" : [ "C:/Home/Projects/QT/DesktopTest01/images/intellivix_logo.jpg" ],
+	"LOCK_FILE" : "C:/Home/Projects/QT/DesktopTest01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/DesktopTest01_autogen.dir/AutoRcc_intellivix_4UGIYD6VGQ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "intellivix" ],
+	"OUTPUT_CHECKSUM" : "4UGIYD6VGQ",
+	"OUTPUT_NAME" : "qrc_intellivix.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Home/Projects/QT/DesktopTest01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/DesktopTest01_autogen.dir/AutoRcc_intellivix_4UGIYD6VGQ_Used.txt",
+	"SOURCE" : "C:/Home/Projects/QT/DesktopTest01/images/intellivix.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-16decc6679901fe298a2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DesktopTest01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DesktopTest01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DesktopTest01-Debug-6aa0e51e5d1bab9a1b46.json",
+					"name" : "DesktopTest01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DesktopTest01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DesktopTest01_autogen-Debug-0241d3e20f2084b9d479.json",
+					"name" : "DesktopTest01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DesktopTest01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DesktopTest01_autogen_timestamp_deps-Debug-aa721a496c28d635341a.json",
+					"name" : "DesktopTest01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Home/Projects/QT/DesktopTest01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Home/Projects/QT/DesktopTest01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
