@@ -2,6 +2,8 @@
 
 bool mariadb_connect()
 {
+    // 0. Check available SQL Drivers
+    qDebug() << "Drivers" << QSqlDatabase::drivers();
     // 1. 데이터베이스 연결 객체 생성
     QSqlDatabase db = QSqlDatabase::addDatabase("QMYSQL");
 
