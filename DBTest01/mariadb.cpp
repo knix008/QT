@@ -10,7 +10,7 @@ bool mariadb_connect()
     // 2. 연결 정보 설정
     db.setHostName("127.0.0.1");  // MariaDB 서버 주소
     db.setPort(3306);             // MariaDB 포트
-    db.setDatabaseName(""); // 데이터베이스 이름
+    db.setDatabaseName("testdb"); // 데이터베이스 이름
     db.setUserName("");     // 사용자 이름
     db.setPassword("");       // 비밀번호
 
