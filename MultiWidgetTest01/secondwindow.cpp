@@ -6,6 +6,7 @@ SecondWindow::SecondWindow(QWidget *parent)
     , ui(new Ui::SecondWindow)
 {
     ui->setupUi(this);
+    this->setGeometry(100, 100, 240, 320);
 }
 
 SecondWindow::~SecondWindow()
