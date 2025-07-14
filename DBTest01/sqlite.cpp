@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "sqlite.h"
 
 bool sqlite_connect(){
@@ -11,5 +12,7 @@ bool sqlite_connect(){
         return false;
     }
     qDebug() << "데이터베이스 연결 성공!" << "\n";
+    printf("DB Connection Successful!!!\n");
+    fflush(stdout);
     return true;
 }
