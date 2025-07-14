@@ -15,6 +15,8 @@ SecondWindow::~SecondWindow()
 
 void SecondWindow::on_backButton_clicked()
 {
+    printf("Go back to main window!!!\n");
+    fflush(stdout);
     emit goBack();
 }
 
