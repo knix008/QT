@@ -1,2 +1,26 @@
+# Build artifacts
 *.o
 VideoPlayer
+
+# Include our wrapper Makefile (override parent .gitignore)
+!Makefile
+
+# Qt build artifacts
+Makefile.qmake
+.qmake.stash
+moc_*.cpp
+moc_*.h
+moc_predefs.h
+ui_*.h
+qrc_*.cpp
+*.moc
+
+# Qt build directories
+.obj/
+.moc/
+.ui/
+.rcc/
+
+# Debug/Release directories
+debug/
+release/
